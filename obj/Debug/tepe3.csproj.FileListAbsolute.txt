@@ -1,0 +1,10 @@
+D:\Programming\C#\KPL\tepe3\bin\Debug\tepe3.exe.config
+D:\Programming\C#\KPL\tepe3\bin\Debug\tepe3.exe
+D:\Programming\C#\KPL\tepe3\bin\Debug\tepe3.pdb
+D:\Programming\C#\KPL\tepe3\obj\Debug\tepe3.csproj.AssemblyReference.cache
+D:\Programming\C#\KPL\tepe3\obj\Debug\tepe3.Form1.resources
+D:\Programming\C#\KPL\tepe3\obj\Debug\tepe3.Properties.Resources.resources
+D:\Programming\C#\KPL\tepe3\obj\Debug\tepe3.csproj.GenerateResource.cache
+D:\Programming\C#\KPL\tepe3\obj\Debug\tepe3.csproj.CoreCompileInputs.cache
+D:\Programming\C#\KPL\tepe3\obj\Debug\tepe3.exe
+D:\Programming\C#\KPL\tepe3\obj\Debug\tepe3.pdb
